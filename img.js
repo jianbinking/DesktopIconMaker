@@ -1,7 +1,7 @@
 var fs = require("fs");
 var gm = require("gm");
 
-var imgPath = './img.jpg'
+var imgPath = './IMG_2481.PNG'
 var savedFolder = './icons'
 
 var rowCount = 6;
